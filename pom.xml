@@ -21,7 +21,7 @@
                         <classpathPrefix>lib/</classpathPrefix>
                         <mainClass>pkg_1.My_Calc</mainClass>
                     </manifest>
-                </>
+                </archive>
             </configuration>
         </plugin>
     </plugins>
